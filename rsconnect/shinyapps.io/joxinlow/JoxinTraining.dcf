@@ -1,0 +1,12 @@
+name: JoxinTraining
+title: JoxinTraining
+username: joxinlow
+account: joxinlow
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9607498
+bundleId: 7568900
+url: https://joxinlow.shinyapps.io/JoxinTraining/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
